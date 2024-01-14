@@ -1,5 +1,25 @@
 [
   {
+    "name": "Main project websit",
+    "url": "https://sustainability.discourses.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/sustainability.discourses.ch.ico",
+    "slug": "main-project-websit",
+    "status": "down",
+    "uptime": "20.56%",
+    "uptimeDay": "20.56%",
+    "uptimeWeek": "20.56%",
+    "uptimeMonth": "20.56%",
+    "uptimeYear": "20.56%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
+  },
+  {
     "name": "Sustainbility Discourse Map (Zürich)",
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
@@ -10,11 +30,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 952,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sustainbility Discourse Map (Zürich), Example query topic (parking)",
+    "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
+    "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
+    "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   }
 ]
