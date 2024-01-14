@@ -3,8 +3,12 @@ owner: urban-sustainability-lab-zurich # Your GitHub organization or username, w
 repo: susdis_monitor # The name of this repository
 
 sites:
-  - name: Main project website
+  - name: Main project website (redirect)
     url: https://sustainability.discourses.ch
+  - name: Main project website (german)
+    url: https://sustainability.discourses.ch/de/
+  - name: Main project website (english)
+    url: https://sustainability.discourses.ch/en/
   - name: Sustainbility Discourse Map (Zürich)
     url: https://zuerich.sustainability.discourses.ch
   - name: Sustainbility Discourse Map (Zürich), Example query topic (parking)
