@@ -3,8 +3,12 @@ owner: urban-sustainability-lab-zurich # Your GitHub organization or username, w
 repo: susdis_monitor # The name of this repository
 
 sites:
+  - name: Main project websit
+    url: https://sustainability.discourses.ch
   - name: Sustainbility Discourse Map (Zürich)
     url: https://zuerich.sustainability.discourses.ch
+  - name: Sustainbility Discourse Map (Zürich), Example query topic (parking)
+    url: https://zuerich.sustainability.discourses.ch/topic/PRK
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,8 +17,8 @@ status-website:
   baseUrl: /susdis_monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: sustainability.discourses monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status monitoring page for web resources of the sustainability.discourses project
+  introTitle: "sustainability.discourses uptime monitor and status page"
+  introMessage: "This is a status monitoring page for web resources of the sustainability.discourses project"
   navbar:
     - title: Status
       href: /
