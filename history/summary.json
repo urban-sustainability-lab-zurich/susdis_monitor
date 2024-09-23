@@ -58,19 +58,19 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1232,
-    "timeDay": 810,
-    "timeWeek": 901,
-    "timeMonth": 920,
+    "timeDay": 1073,
+    "timeWeek": 955,
+    "timeMonth": 933,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-09-23": 0
+      "2024-09-23": 8
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 400,
-    "timeWeek": 392,
-    "timeMonth": 404,
-    "timeYear": 432,
+    "time": 434,
+    "timeDay": 652,
+    "timeWeek": 456,
+    "timeMonth": 420,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   }
 ]
