@@ -9,6 +9,8 @@ sites:
     url: https://sustainability.discourses.ch/de/
   - name: Main project website (english)
     url: https://sustainability.discourses.ch/en/
+  - name: Overview app over recent articles
+    url: https://simple.sustainability.discourses.ch
   - name: Sustainbility Discourse Map (Zürich)
     url: https://zuerich.sustainability.discourses.ch
   - name: Sustainbility Discourse Map (Zürich), Example query topic (parking)
