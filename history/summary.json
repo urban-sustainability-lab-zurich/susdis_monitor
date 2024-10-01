@@ -58,28 +58,30 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 629,
     "timeDay": 621,
     "timeWeek": 629,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-01": 1
+    }
   },
   {
     "name": "Sustainbility Discourse Map (Zürich)",
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.97%",
     "time": 1246,
@@ -88,6 +90,7 @@
     "timeMonth": 1138,
     "timeYear": 1246,
     "dailyMinutesDown": {
+      "2024-10-01": 1,
       "2024-09-26": 101
     }
   },
@@ -96,7 +99,7 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
