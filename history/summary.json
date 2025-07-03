@@ -4,19 +4,19 @@
     "url": "https://sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/sustainability.discourses.ch.ico",
     "slug": "main-project-website-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 203,
-    "timeWeek": 214,
-    "timeMonth": 200,
-    "timeYear": 175,
+    "timeDay": 154,
+    "timeWeek": 200,
+    "timeMonth": 197,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-07-03": 1
+      "2025-07-03": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sustainability.discourses.ch/de/",
     "icon": "https://icons.duckduckgo.com/ip3/sustainability.discourses.ch.ico",
     "slug": "main-project-website-german",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 10,
-    "timeWeek": 47,
-    "timeMonth": 58,
+    "timeDay": 13,
+    "timeWeek": 43,
+    "timeMonth": 57,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-07-03": 0
+      "2025-07-03": 13
     }
   },
   {
