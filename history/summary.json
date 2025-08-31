@@ -165,17 +165,17 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 3395,
-    "timeWeek": 2310,
-    "timeMonth": 1586,
-    "timeYear": 728,
+    "timeDay": 3242,
+    "timeWeek": 2275,
+    "timeMonth": 1573,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   }
 ]
