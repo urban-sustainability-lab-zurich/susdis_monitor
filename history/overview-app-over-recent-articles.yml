@@ -1,7 +1,7 @@
 url: https://simple.sustainability.discourses.ch
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2025-09-02T21:15:37.672Z
+status: down
+code: 502
+responseTime: 25499
+lastUpdated: 2025-09-02T21:36:13.626Z
 startTime: 2024-09-26T15:32:28.210Z
 generator: Upptime <https://github.com/upptime/upptime>
