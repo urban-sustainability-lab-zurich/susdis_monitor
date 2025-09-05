@@ -1,7 +1,7 @@
 url: https://zuerich.sustainability.discourses.ch
-status: up
-code: 200
-responseTime: 1475
-lastUpdated: 2025-09-05T16:07:53.396Z
+status: down
+code: 502
+responseTime: 17782
+lastUpdated: 2025-09-05T18:11:34.655Z
 startTime: 2024-01-14T12:30:10.176Z
 generator: Upptime <https://github.com/upptime/upptime>
