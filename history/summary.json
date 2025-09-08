@@ -58,17 +58,17 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "80.04%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "80.03%",
     "uptimeWeek": "83.67%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "98.48%",
-    "time": 1741,
-    "timeDay": 9422,
-    "timeWeek": 7160,
-    "timeMonth": 4628,
-    "timeYear": 1741,
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "98.50%",
+    "time": 1740,
+    "timeDay": 8106,
+    "timeWeek": 7113,
+    "timeMonth": 4613,
+    "timeYear": 1740,
     "dailyMinutesDown": {
       "2025-09-08": 165,
       "2025-09-07": 332,
@@ -119,8 +119,7 @@
       "2024-10-13": 33,
       "2024-10-12": 488,
       "2024-10-11": 1431,
-      "2024-10-03": 18,
-      "2024-10-02": 134
+      "2024-10-03": 18
     }
   },
   {
