@@ -124,19 +124,19 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "61.56%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "61.49%",
+    "uptimeWeek": "73.17%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
-    "time": 2357,
+    "time": 2358,
     "timeDay": 6030,
     "timeWeek": 5222,
     "timeMonth": 4466,
     "timeYear": 2666,
     "dailyMinutesDown": {
-      "2025-09-09": 194,
+      "2025-09-09": 195,
       "2025-09-08": 376,
       "2025-09-07": 653,
       "2025-09-06": 584,
@@ -151,7 +151,7 @@
       "2025-08-27": 27,
       "2025-08-22": 28,
       "2025-08-21": 15,
-      "2025-08-18": 41
+      "2025-08-18": 25
     }
   },
   {
