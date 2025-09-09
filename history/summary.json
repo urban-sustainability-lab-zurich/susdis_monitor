@@ -129,17 +129,17 @@
     "slug": "sustainbility-discourse-map-zuerich",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "72.74%",
-    "uptimeWeek": "74.79%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "99.40%",
     "time": 2308,
-    "timeDay": 4952,
+    "timeDay": 5059,
     "timeWeek": 5165,
     "timeMonth": 4434,
     "timeYear": 2632,
     "dailyMinutesDown": {
-      "2025-09-08": 384,
+      "2025-09-08": 376,
       "2025-09-07": 653,
       "2025-09-06": 584,
       "2025-09-05": 347,
@@ -157,7 +157,7 @@
       "2025-08-15": 23,
       "2025-08-12": 29,
       "2025-07-03": 54,
-      "2025-07-02": 78
+      "2025-07-02": 122
     }
   },
   {
@@ -172,7 +172,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1542,
-    "timeDay": 3795,
+    "timeDay": 3908,
     "timeWeek": 4356,
     "timeMonth": 3369,
     "timeYear": 1790,
