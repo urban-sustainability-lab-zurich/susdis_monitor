@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "74.82%",
-    "uptimeWeek": "81.41%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.84%",
+    "uptimeDay": "75.59%",
+    "uptimeWeek": "81.52%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "98.84%",
     "time": 1871,
     "timeDay": 5953,
-    "timeWeek": 7311,
+    "timeWeek": 7357,
     "timeMonth": 4883,
     "timeYear": 1871,
     "dailyMinutesDown": {
-      "2025-09-09": 362,
+      "2025-09-09": 351,
       "2025-09-08": 184,
       "2025-09-07": 332,
       "2025-09-06": 427,
@@ -113,7 +113,8 @@
       "2024-11-17": 227,
       "2024-11-16": 237,
       "2024-11-07": 27,
-      "2024-11-06": 820
+      "2024-11-06": 820,
+      "2024-10-31": 396
     }
   },
   {
@@ -121,19 +122,19 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "69.03%",
-    "uptimeWeek": "72.12%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "68.99%",
+    "uptimeWeek": "72.11%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
-    "time": 2406,
+    "time": 2408,
     "timeDay": 3314,
-    "timeWeek": 5001,
+    "timeWeek": 5022,
     "timeMonth": 4382,
     "timeYear": 2660,
     "dailyMinutesDown": {
-      "2025-09-09": 446,
+      "2025-09-09": 447,
       "2025-09-08": 376,
       "2025-09-07": 653,
       "2025-09-06": 584,
@@ -143,7 +144,7 @@
       "2025-09-02": 168,
       "2025-09-01": 79,
       "2025-08-31": 125,
-      "2025-08-30": 34
+      "2025-08-30": 17
     }
   },
   {
