@@ -58,11 +58,11 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "80.67%",
-    "uptimeMonth": "93.48%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "80.64%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.37%",
     "time": 2228,
     "timeDay": 10248,
@@ -70,7 +70,7 @@
     "timeMonth": 5545,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2025-09-12": 65,
+      "2025-09-12": 68,
       "2025-09-11": 309,
       "2025-09-10": 202,
       "2025-09-09": 368,
@@ -94,7 +94,7 @@
       "2025-07-05": 36,
       "2025-07-04": 36,
       "2025-07-03": 54,
-      "2025-07-02": 138
+      "2025-07-02": 115
     }
   },
   {
@@ -102,26 +102,26 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "59.14%",
-    "uptimeWeek": "64.84%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
-    "time": 2650,
+    "uptimeDay": "59.73%",
+    "uptimeWeek": "64.89%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "99.31%",
+    "time": 2652,
     "timeDay": 7478,
     "timeWeek": 5288,
     "timeMonth": 4598,
     "timeYear": 2906,
     "dailyMinutesDown": {
-      "2025-09-12": 346,
+      "2025-09-12": 348,
       "2025-09-11": 602,
       "2025-09-10": 390,
       "2025-09-09": 471,
       "2025-09-08": 376,
       "2025-09-07": 653,
       "2025-09-06": 584,
-      "2025-09-05": 234
+      "2025-09-05": 206
     }
   },
   {
@@ -137,7 +137,7 @@
     "uptimeYear": "100.00%",
     "time": 1908,
     "timeDay": 4568,
-    "timeWeek": 4689,
+    "timeWeek": 4647,
     "timeMonth": 3693,
     "timeYear": 2123,
     "dailyMinutesDown": {}
