@@ -58,10 +58,10 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "81.05%",
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "81.19%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.40%",
     "time": 2291,
@@ -70,7 +70,7 @@
     "timeMonth": 5537,
     "timeYear": 2291,
     "dailyMinutesDown": {
-      "2025-09-13": 119,
+      "2025-09-13": 120,
       "2025-09-12": 129,
       "2025-09-11": 309,
       "2025-09-10": 202,
@@ -89,8 +89,7 @@
       "2025-08-21": 16,
       "2025-08-20": 15,
       "2025-08-18": 41,
-      "2025-08-12": 30,
-      "2025-08-10": 24
+      "2025-08-12": 30
     }
   },
   {
@@ -100,9 +99,9 @@
     "slug": "sustainbility-discourse-map-zuerich",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "81.15%",
+    "uptimeDay": "80.11%",
     "uptimeWeek": "66.91%",
-    "uptimeMonth": "91.82%",
+    "uptimeMonth": "91.78%",
     "uptimeYear": "99.32%",
     "time": 2652,
     "timeDay": 6097,
@@ -110,7 +109,7 @@
     "timeMonth": 4694,
     "timeYear": 3011,
     "dailyMinutesDown": {
-      "2025-09-13": 102,
+      "2025-09-13": 117,
       "2025-09-12": 429,
       "2025-09-11": 602,
       "2025-09-10": 390,
@@ -125,17 +124,17 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1848,
-    "timeDay": 4336,
-    "timeWeek": 4492,
-    "timeMonth": 3714,
-    "timeYear": 2173,
+    "time": 1853,
+    "timeDay": 4357,
+    "timeWeek": 4494,
+    "timeMonth": 3718,
+    "timeYear": 2176,
     "dailyMinutesDown": {}
   }
 ]
