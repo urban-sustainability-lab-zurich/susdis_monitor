@@ -96,7 +96,7 @@
     "uptimeYear": "99.22%",
     "time": 3020,
     "timeDay": 4807,
-    "timeWeek": 5602,
+    "timeWeek": 5622,
     "timeMonth": 4904,
     "timeYear": 3299,
     "dailyMinutesDown": {
@@ -115,17 +115,17 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2046,
-    "timeDay": 2787,
-    "timeWeek": 4109,
-    "timeMonth": 3666,
-    "timeYear": 2297,
+    "timeDay": 2673,
+    "timeWeek": 4088,
+    "timeMonth": 3659,
+    "timeYear": 2295,
     "dailyMinutesDown": {}
   }
 ]
