@@ -60,9 +60,9 @@
     "slug": "overview-app-over-recent-articles",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "87.25%",
-    "uptimeWeek": "80.73%",
-    "uptimeMonth": "92.75%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "80.83%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.38%",
     "time": 2755,
     "timeDay": 6663,
@@ -70,7 +70,7 @@
     "timeMonth": 6119,
     "timeYear": 2755,
     "dailyMinutesDown": {
-      "2025-09-17": 183,
+      "2025-09-17": 173,
       "2025-09-16": 291,
       "2025-09-15": 304,
       "2025-09-14": 332,
@@ -81,7 +81,7 @@
       "2025-09-09": 368,
       "2025-09-08": 184,
       "2025-09-07": 332,
-      "2025-09-06": 150
+      "2025-09-06": 168
     }
   },
   {
@@ -91,17 +91,17 @@
     "slug": "sustainbility-discourse-map-zuerich",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "77.41%",
-    "uptimeWeek": "63.22%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "78.04%",
+    "uptimeWeek": "63.31%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "99.21%",
     "time": 2912,
     "timeDay": 2347,
     "timeWeek": 5354,
     "timeMonth": 4781,
     "timeYear": 3268,
     "dailyMinutesDown": {
-      "2025-09-17": 326,
+      "2025-09-17": 317,
       "2025-09-16": 491,
       "2025-09-15": 732,
       "2025-09-14": 633,
@@ -109,7 +109,7 @@
       "2025-09-12": 429,
       "2025-09-11": 602,
       "2025-09-10": 390,
-      "2025-09-09": 25
+      "2025-09-09": 40
     }
   },
   {
