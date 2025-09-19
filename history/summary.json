@@ -60,17 +60,17 @@
     "slug": "overview-app-over-recent-articles",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "76.55%",
-    "uptimeWeek": "80.48%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "77.15%",
+    "uptimeWeek": "80.64%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.39%",
     "time": 2738,
-    "timeDay": 2872,
-    "timeWeek": 6342,
+    "timeDay": 1899,
+    "timeWeek": 6373,
     "timeMonth": 5947,
     "timeYear": 2738,
     "dailyMinutesDown": {
-      "2025-09-18": 338,
+      "2025-09-18": 329,
       "2025-09-17": 173,
       "2025-09-16": 291,
       "2025-09-15": 304,
@@ -81,7 +81,7 @@
       "2025-09-10": 202,
       "2025-09-09": 368,
       "2025-09-08": 184,
-      "2025-09-07": 123
+      "2025-09-07": 141
     }
   },
   {
@@ -96,7 +96,7 @@
     "uptimeMonth": "90.31%",
     "uptimeYear": "99.19%",
     "time": 2988,
-    "timeDay": 3148,
+    "timeDay": 3252,
     "timeWeek": 4998,
     "timeMonth": 4736,
     "timeYear": 3270,
