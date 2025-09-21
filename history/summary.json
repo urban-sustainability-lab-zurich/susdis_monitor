@@ -60,17 +60,17 @@
     "slug": "overview-app-over-recent-articles",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "79.00%",
-    "uptimeWeek": "80.77%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "81.06%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.45%",
     "time": 2764,
     "timeDay": 2719,
-    "timeWeek": 5150,
+    "timeWeek": 5075,
     "timeMonth": 5786,
     "timeYear": 2764,
     "dailyMinutesDown": {
-      "2025-09-20": 302,
+      "2025-09-20": 290,
       "2025-09-19": 191,
       "2025-09-18": 329,
       "2025-09-17": 173,
@@ -80,7 +80,7 @@
       "2025-09-13": 392,
       "2025-09-12": 129,
       "2025-09-11": 309,
-      "2025-09-10": 79
+      "2025-09-10": 114
     }
   },
   {
@@ -91,12 +91,12 @@
     "status": "up",
     "uptime": "99.53%",
     "uptimeDay": "90.53%",
-    "uptimeWeek": "72.40%",
+    "uptimeWeek": "72.71%",
     "uptimeMonth": "90.57%",
     "uptimeYear": "99.21%",
     "time": 2922,
     "timeDay": 2778,
-    "timeWeek": 4089,
+    "timeWeek": 4108,
     "timeMonth": 4584,
     "timeYear": 3231,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 2008,
     "timeDay": 1721,
-    "timeWeek": 2768,
+    "timeWeek": 2765,
     "timeMonth": 3537,
     "timeYear": 2325,
     "dailyMinutesDown": {}
