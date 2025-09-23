@@ -60,9 +60,9 @@
     "slug": "overview-app-over-recent-articles",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "80.96%",
-    "uptimeWeek": "83.94%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "84.07%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 2832,
     "timeDay": 5371,
@@ -70,7 +70,7 @@
     "timeMonth": 5771,
     "timeYear": 2832,
     "dailyMinutesDown": {
-      "2025-09-23": 210,
+      "2025-09-23": 197,
       "2025-09-22": 177,
       "2025-09-21": 213,
       "2025-09-20": 290,
@@ -81,7 +81,7 @@
       "2025-09-15": 304,
       "2025-09-14": 332,
       "2025-09-13": 392,
-      "2025-09-12": 83
+      "2025-09-12": 101
     }
   },
   {
@@ -91,17 +91,17 @@
     "slug": "sustainbility-discourse-map-zuerich",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "81.72%",
-    "uptimeWeek": "86.23%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "86.35%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "99.30%",
     "time": 3010,
-    "timeDay": 2646,
+    "timeDay": 2739,
     "timeWeek": 3209,
     "timeMonth": 4576,
     "timeYear": 3286,
     "dailyMinutesDown": {
-      "2025-09-23": 187,
+      "2025-09-23": 175,
       "2025-09-22": 154,
       "2025-09-21": 89,
       "2025-09-20": 137,
@@ -112,7 +112,7 @@
       "2025-09-15": 732,
       "2025-09-14": 633,
       "2025-09-13": 493,
-      "2025-09-12": 23
+      "2025-09-12": 40
     }
   },
   {
@@ -120,14 +120,14 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2058,
-    "timeDay": 2095,
+    "time": 2059,
+    "timeDay": 1082,
     "timeWeek": 2797,
     "timeMonth": 3526,
     "timeYear": 2377,
