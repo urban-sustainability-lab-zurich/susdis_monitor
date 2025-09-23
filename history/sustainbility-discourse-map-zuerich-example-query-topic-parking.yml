@@ -1,7 +1,7 @@
 url: https://zuerich.sustainability.discourses.ch/topic/PRK
-status: up
-code: 200
-responseTime: 864
-lastUpdated: 2025-09-23T21:25:43.648Z
+status: down
+code: 502
+responseTime: 27420
+lastUpdated: 2025-09-23T21:37:53.799Z
 startTime: 2024-01-14T12:52:54.536Z
 generator: Upptime <https://github.com/upptime/upptime>
