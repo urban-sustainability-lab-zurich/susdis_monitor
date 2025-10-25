@@ -58,10 +58,10 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2740,
@@ -70,6 +70,7 @@
     "timeMonth": 647,
     "timeYear": 2812,
     "dailyMinutesDown": {
+      "2025-10-25": 1,
       "2025-09-24": 468,
       "2025-09-23": 284,
       "2025-09-22": 177,
@@ -81,7 +82,7 @@
       "2025-09-16": 291,
       "2025-09-15": 304,
       "2025-09-14": 332,
-      "2025-09-13": 178
+      "2025-09-13": 161
     }
   },
   {
@@ -89,18 +90,19 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.25%",
-    "time": 3153,
+    "uptimeYear": "99.27%",
+    "time": 3155,
     "timeDay": 750,
     "timeWeek": 922,
     "timeMonth": 1110,
     "timeYear": 3336,
     "dailyMinutesDown": {
+      "2025-10-25": 1,
       "2025-09-24": 387,
       "2025-09-23": 328,
       "2025-09-22": 154,
@@ -112,7 +114,7 @@
       "2025-09-16": 491,
       "2025-09-15": 732,
       "2025-09-14": 633,
-      "2025-09-13": 216
+      "2025-09-13": 114
     }
   },
   {
@@ -120,13 +122,13 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2158,
+    "time": 2159,
     "timeDay": 374,
     "timeWeek": 448,
     "timeMonth": 429,
