@@ -58,10 +58,10 @@
     "url": "https://simple.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/simple.sustainability.discourses.ch.ico",
     "slug": "overview-app-over-recent-articles",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.32%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.40%",
     "time": 2640,
@@ -70,7 +70,7 @@
     "timeMonth": 796,
     "timeYear": 2766,
     "dailyMinutesDown": {
-      "2025-11-10": 26,
+      "2025-11-10": 27,
       "2025-11-09": 17,
       "2025-11-05": 36,
       "2025-11-04": 91,
@@ -88,7 +88,7 @@
       "2025-09-17": 173,
       "2025-09-16": 291,
       "2025-09-15": 304,
-      "2025-09-14": 164
+      "2025-09-14": 134
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://zuerich.sustainability.discourses.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.22%",
-    "time": 2993,
+    "time": 2995,
     "timeDay": 4316,
     "timeWeek": 3222,
     "timeMonth": 2294,
     "timeYear": 3330,
     "dailyMinutesDown": {
-      "2025-11-10": 33,
+      "2025-11-10": 34,
       "2025-11-09": 16,
       "2025-11-05": 60,
       "2025-11-04": 29,
@@ -127,7 +127,7 @@
       "2025-09-17": 317,
       "2025-09-16": 491,
       "2025-09-15": 732,
-      "2025-09-14": 166
+      "2025-09-14": 118
     }
   },
   {
@@ -135,13 +135,13 @@
     "url": "https://zuerich.sustainability.discourses.ch/topic/PRK",
     "icon": "https://icons.duckduckgo.com/ip3/zuerich.sustainability.discourses.ch.ico",
     "slug": "sustainbility-discourse-map-zuerich-example-query-topic-parking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2093,
+    "time": 2094,
     "timeDay": 714,
     "timeWeek": 1049,
     "timeMonth": 852,
